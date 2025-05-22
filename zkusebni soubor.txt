@@ -1,0 +1,2 @@
+Nový text
+Zdroj: https://www.itnetwork.cz/programovani/git/git-github-desktop
