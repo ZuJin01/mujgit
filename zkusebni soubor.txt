@@ -1,2 +1,8 @@
 Nový text
 Zdroj: https://www.itnetwork.cz/programovani/git/git-github-desktop
+
+přidání texu do souboru v terminálu Mintty:
+git checkout feature
+echo "123456789" >> testovaci_soubor.txt
+echo "987654321" >> testovaci_soubor.txt
+echo "000000000" >> testovaci_soubor.txt
